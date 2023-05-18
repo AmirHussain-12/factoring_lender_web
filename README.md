@@ -1,5 +1,5 @@
 # Factoring Lender API
-  Factoring Lender is a type of financing in which businesses sell their accounts receivable, unpaid customer invoices or projected future cash flow for a quick injection of cash right away. An API only application in which there are different end points. A borrower can create invoices and assign a lender. A lender can approve or reject the invoices and can also purchase the approved invoices.
+  Factoring Lender is a type of financing in which businesses sell their accounts receivable, unpaid customer invoices or projected future cash flow for a quick injection of cash right away. This is the frontend implementation which involves all navigation and state management
 
 # Components
   - Invoices
