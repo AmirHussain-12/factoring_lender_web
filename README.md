@@ -36,6 +36,6 @@
 # Setup Instructions
   - Clone the repo (`git clone https://github.com/AmirHussain-12/factoring_lender_web.git`)
   - Run npm install
-  - Place the shared .env file in project's root directory.
+  - Place the shared frontend.env file in project's root directory and run `cp frontend.env .env`.
   - Start the server with `PORT=3001 npm start`
   - Go to http://localhost:3001
