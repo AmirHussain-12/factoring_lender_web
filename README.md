@@ -1,4 +1,4 @@
-# Factoring Lender API
+# Factoring Lender Web
   Factoring Lender is a type of financing in which businesses sell their accounts receivable, unpaid customer invoices or projected future cash flow for a quick injection of cash right away. This is the frontend implementation which involves all navigation and state management
 
 # Components
@@ -34,7 +34,7 @@
   - Node v14.21.3
 
 # Setup Instructions
-  - Clone the repo (git clone https://github.com/AmirHussain-12/factoring_lender_api.git)
+  - Clone the repo (`git clone https://github.com/AmirHussain-12/factoring_lender_web.git`)
   - Run npm install
   - Place the shared .env file in project's root directory.
   - Start the server with `PORT=3001 npm start`
